@@ -7,7 +7,7 @@ function randGenerator(x){
     return Math.floor(Math.random() * (x.length - 1))
 
 }
-const memeList = ["memes\\1.jpeg", "memes\\2.jpeg", "memes\\3.jpeg", "memes\\4.jpeg", "memes\\5.jpeg"];
+const memeList = ['https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2022%2F01%2F31%2Fcrosswords%2F31meme-wordplay%2F31meme-wordplay-mediumSquareAt3X.png&tbnid=bKbToJQUa4RBlM&vet=12ahUKEwi7lrv94ImFAxXslWMGHRk1Cc0QMygCegQIARAz..i&imgrefurl=https%3A%2F%2Fwww.nytimes.com%2F2022%2F01%2F26%2Fcrosswords%2Fwhat-is-a-meme.html&docid=IukVfdJ7FuvyBM&w=790&h=790&q=memes&ved=2ahUKEwi7lrv94ImFAxXslWMGHRk1Cc0QMygCegQIARAz'];
 const jokes = [
     "Why don't scientists trust atoms? Because they make up everything!",
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
