@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color:#3c3c79;
+    font-family: roboto;
+}
+body{
+    background-color: #f8f3f7;
+}
+h1{
+
+    text-align: center;
+    font-size: 44px;
+}
+main{
+    margin-top: 40px;
+   
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+    font-size: 34px;
+}
+.line{
+    border: 2px solid;
+}
+.left,.right{
+
+    height: 80vh;
+    width: 40vw;
+    overflow: hidden;
+    text-align: center;
+    font-size: .8em;
+}
+.left *{
+    margin-bottom: 10%;
+    
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10%;
+}
+button{
+    padding: 10px;
+    border-radius: 4px;
+    width: 40%;
+    font-size: 0.8em;
+    box-shadow: 1px 1px black;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(166, 222, 239);
+    transform: scale(1.1);
+}
+.meme img{
+    width: 80%;
+    object-fit: contain;
+}
+.joke p{
+    color: brown;
+}
+.riddle p{
+    color: brown;
+}
+.right p{
+    font-size: 0.7em;
+    text-decoration: underline;
+    
+}
+.right p:hover{
+    cursor: pointer;
+    
+}
