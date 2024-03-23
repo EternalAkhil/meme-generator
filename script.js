@@ -7,7 +7,7 @@ function randGenerator(x){
     return Math.floor(Math.random() * (x.length - 1))
 
 }
-const memeList = ["memes\\1.jpeg", "memes\\2.jpeg", "memes\\3.jpeg", "memes\\4.jpeg", "memes\\5.jpeg"];
+const memeList = ["1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "5.jpeg"];
 const jokes = [
     "Why don't scientists trust atoms? Because they make up everything!",
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
