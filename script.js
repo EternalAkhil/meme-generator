@@ -1,4 +1,5 @@
 console.log("i am working")
+
 let x
 let btn1 = document.querySelector(".but1")
 let btn2 = document.querySelector(".but2")
@@ -7,7 +8,7 @@ function randGenerator(x){
     return Math.floor(Math.random() * (x.length - 1))
 
 }
-const memeList = ["1.jpeg", "2.jpeg", "3.jpeg", "4.jpeg", "5.jpeg"];
+const memeList = ["https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg", "https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg", "https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg", "https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg", "https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg"];
 const jokes = [
     "Why don't scientists trust atoms? Because they make up everything!",
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
