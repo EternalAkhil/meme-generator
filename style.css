@@ -58,12 +58,10 @@ button:hover{
     width: 80%;
     object-fit: contain;
 }
-.joke p{
+.joke p,.meme p, .riddle p{
     color: brown;
 }
-.riddle p{
-    color: brown;
-}
+
 .right p{
     font-size: 0.7em;
     text-decoration: underline;

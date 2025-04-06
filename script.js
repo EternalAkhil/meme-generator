@@ -8,7 +8,18 @@ function randGenerator(x){
     return Math.floor(Math.random() * (x.length - 1))
 
 }
-const memeList = ["https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg", "https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg", "https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg", "https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg", "https://github.com/EternalAkhil/memegenerator/blob/97afb0fa32288817f11f2b23eac8b792c2fd9000/1.jpeg"];
+const memeList = [
+    "https://i.imgflip.com/1bij.jpg", // "Distracted Boyfriend" meme
+    "https://i.imgflip.com/26am.jpg", // "One Does Not Simply" meme
+    "https://i.imgflip.com/3si4.jpg", // "Grumpy Cat" meme
+    "https://i.imgflip.com/9ehk.jpg", // "Success Kid" meme
+    "https://i.imgflip.com/1ur9b0.jpg", // "Drake Hotline Bling" meme
+    "https://i.imgflip.com/2wifvo.jpg", // "Woman Yelling at Cat" meme
+    "https://i.imgflip.com/4t0m5.jpg", // "Change My Mind" meme
+    "https://i.imgflip.com/39t1o.jpg", // "Leonardo DiCaprio Cheers" meme
+    "https://i.imgflip.com/1otk96.jpg", // "Two Buttons" meme
+    "https://i.imgflip.com/4acd7j.jpg"  // "Is This a Pigeon?" meme
+];
 const jokes = [
     "Why don't scientists trust atoms? Because they make up everything!",
     "I told my wife she was drawing her eyebrows too high. She looked surprised.",
