@@ -24,8 +24,7 @@ A fun little web app where users can click a button to generate random memes, jo
 
 ## 🎮 Demo
 
-https://your-username.github.io/meme-generator/  
-*(Replace with your GitHub Pages link once deployed)*
+https://eternalakhil.github.io/meme-generator/
 
 ---
 
